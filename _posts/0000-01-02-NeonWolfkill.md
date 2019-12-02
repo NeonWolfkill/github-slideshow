@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+yo boi is getting a sister this january!!
 Use the left arrow to go back!
